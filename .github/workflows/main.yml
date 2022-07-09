@@ -24,8 +24,8 @@ jobs:
 
       - name: Run main.py
         env:
-          ltuid: ${{ secrets.ltuid }}
-          ltoken: ${{ secrets.ltoken }}
+          ltuid: ${{ secrets.LTUID }}
+          ltoken: ${{ secrets.LTOKEN }}
           GAME_UID: ${{ secrets.GAME_UID }}
         run: |-
           python3 ./main.py
