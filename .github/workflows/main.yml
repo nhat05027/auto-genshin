@@ -1,0 +1,41 @@
+name: "Daily check and update"
+
+on:
+  schedule:
+    - cron: "16 16 * * *"
+  workflow_dispatch:
+
+jobs:
+  check_and_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+
+      - name: Set up python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+
+      - name: Install requirements
+        run: |-
+          pip install -r requirements.txt
+
+      - name: Run main.py
+        env:
+          COOKIE: ${{ secrets.COOKIE }}
+          GAME_UID: ${{ secrets.GAME_UID }}
+          AUTHKEY: ${{ secrets.AUTHKEY }}
+          DAILY_OR_ERR: ${{ secrets.DAILY_OR_ERR }}
+        run: |-
+          python3 ./main.py
+
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "katheryne@bot.op"
+          git config --global user.name "Katheryne"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push
