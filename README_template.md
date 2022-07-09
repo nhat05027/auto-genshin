@@ -3,7 +3,6 @@
 <table>
     <tr><td>Nickname</td><td>replace_this_with_nickname</td></tr>
     <tr><td>Adventure rank</td><td>replace_this_with_ar</td></tr>
-    <tr><td>Primogems</td><td>replace_this_with_primos_amount<br>(replace_this_with_primos_date)</td></tr>
     <tr><td>Total rewards claimed</td><td>replace_this_with_reward_info_total_sign_day</td></tr>
     <tr><td>Last reward</td>
         <td>
