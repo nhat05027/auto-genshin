@@ -24,10 +24,9 @@ jobs:
 
       - name: Run main.py
         env:
-          COOKIE: ${{ secrets.COOKIE }}
+          ltuid: ${{ secrets.ltuid }}
+          ltoken: ${{ secrets.ltoken }}
           GAME_UID: ${{ secrets.GAME_UID }}
-          AUTHKEY: ${{ secrets.AUTHKEY }}
-          DAILY_OR_ERR: ${{ secrets.DAILY_OR_ERR }}
         run: |-
           python3 ./main.py
 
