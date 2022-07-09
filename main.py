@@ -8,21 +8,9 @@ import re
 #%% login into genshin
 
 GAME_UID = int(os.environ.get("GAME_UID"))
-gs.set_cookie(os.environ.get("COOKIE"))
-hoyolab_uid = os.environ.get("COOKIE").split("ltuid=")[1].split(";")[0]
-gs.set_authkey(os.environ.get("AUTHKEY"))
-
-#%% check in and get exp on hoyolab
-
-print("[HoYoLAB] ", end="")
-try:
-    gs.hoyolab_check_in()
-    print("Claimed exp for hoyolab.")
-except gs.SignInException:
-    print("Exp for hoyolab was already claimed.")
-except gs.GenshinStatsException as e:
-    print("Got error code -1 and message: " + e.orig_msg)
-
+hoyolab_uid = int(os.environ.get("ltuid"))
+token = int(os.environ.get("ltoken"))
+gs.set_cookie(ltuid=hoyolab_uid, ltoken=token)
 
 #%% Claim daily rewards
 
@@ -32,8 +20,6 @@ if daily_reward is not None:
     print(f"Claimed: {daily_reward['cnt']} x {daily_reward['name']}")
 else:
     if bool(os.environ.get("DAILY_OR_ERR")):
-        raise Exception("Could not claim daily reward")
-    else:
         print("Could not claim daily reward")
 
 
@@ -61,29 +47,6 @@ root = pathlib.Path(__file__).parent.resolve()
 readme_template = root / "README_template.md"
 data = readme_template.open().read()
 
-
-#%% primos
-primos_file = root / "primos.txt"
-(primos_date, primos_amount) = primos_file.open().read().split("\n")
-primos_amount = int(primos_amount)
-
-print("[Primogem counter] ", end="")
-try:
-    for i, record in enumerate(gs.get_primogem_log()):
-        if i == 0:
-            new_primos_date = record["time"]
-        if record["time"] == primos_date:
-            break
-        primos_amount += record["amount"]
-
-    primos_date = new_primos_date
-    io.open(primos_file, "w", newline="\n").write(f"{str(primos_date)}\n{str(primos_amount)}")
-    print(f"Updated to {str(primos_date)} with value {str(primos_amount)}")
-except gs.AuthkeyTimeout:
-    print("Authkey expired")
-
-data = data.replace(f"replace_this_with_primos_amount", str(primos_amount))
-data = data.replace(f"replace_this_with_primos_date", str(primos_date))
 
 
 #%% other stats
