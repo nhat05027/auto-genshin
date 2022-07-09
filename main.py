@@ -8,8 +8,8 @@ import re
 #%% login into genshin
 
 GAME_UID = int(os.environ.get("GAME_UID"))
-hoyolab_uid = int(os.environ.get("ltuid"))
-token = int(os.environ.get("ltoken"))
+hoyolab_uid = int(os.environ.get("LTUID"))
+token = int(os.environ.get("LTOKEN"))
 gs.set_cookie(ltuid=hoyolab_uid, ltoken=token)
 
 #%% Claim daily rewards
