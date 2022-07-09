@@ -9,7 +9,7 @@ import re
 
 GAME_UID = int(os.environ.get("GAME_UID"))
 hoyolab_uid = int(os.environ.get("LTUID"))
-token = int(os.environ.get("LTOKEN"))
+token = (os.environ.get("LTOKEN"))
 gs.set_cookie(ltuid=hoyolab_uid, ltoken=token)
 
 #%% Claim daily rewards
