@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>10</td></tr>
+    <tr><td>Total rewards claimed</td><td>11</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
             <br>
-            5000 x Mora
+            20 x Primogem
         </td>
     </tr>
-    <tr><td>Last checked</td><td>10.07.2022 16:39:50 UTC</td></tr>
+    <tr><td>Last checked</td><td>11.07.2022 16:48:55 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>416</td></tr>
-    <tr><td>Active days</td><td>109</td></tr>
+    <tr><td>Active days</td><td>110</td></tr>
     <tr><td>Characters</td><td>23</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -354,7 +354,7 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>3 x Heart of Depth<br>2 x Blizzard Strayer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
