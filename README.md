@@ -3,24 +3,24 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>13</td></tr>
+    <tr><td>Total rewards claimed</td><td>14</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
             <br>
-            2 x Adventurer's Experience
+            8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>13.07.2022 16:46:59 UTC</td></tr>
+    <tr><td>Last checked</td><td>14.07.2022 16:50:48 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>416</td></tr>
-    <tr><td>Active days</td><td>112</td></tr>
+    <tr><td>Achievements</td><td>418</td></tr>
+    <tr><td>Active days</td><td>113</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
-    <tr><td>Spiral abyss</td><td>11-3</td></tr>
+    <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>114</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>11</td></tr>
-    <tr><td>Total wins</td><td>10</td></tr>
-    <tr><td>Max floor</td><td>11-3</td></tr>
-    <tr><td>Total stars</td><td>27</td></tr>
+    <tr><td>Total battles</td><td>18</td></tr>
+    <tr><td>Total wins</td><td>13</td></tr>
+    <tr><td>Max floor</td><td>12-3</td></tr>
+    <tr><td>Total stars</td><td>32</td></tr>
     <tr><td>Strongest hit</td><td>Diluc -> 63121 DMG</td></tr>
-    <tr><td>Most kills</td><td>Ayaka -> 64</td></tr>
-    <tr><td>Most damage taken</td><td>Diluc -> 138001 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Yelan -> 52</td></tr>
-    <tr><td>Most bursts used</td><td>Yelan -> 126</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 66</td></tr>
+    <tr><td>Most damage taken</td><td>Diluc -> 201215 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Yelan -> 78</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 175</td></tr>
 </table>
 
 ## Exploration
@@ -174,7 +174,7 @@
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Blizzard Strayer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -318,7 +318,7 @@
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Gladiator's Finale<br>1 x Pale Flame</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -354,7 +354,7 @@
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td>Gunnhildr's Legacy</td></tr>
@@ -548,7 +548,7 @@
     <tr><td>Name</td><td>Sacrificial Greatsword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>50</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
+    <tr><td>Refinement</td><td>4</td></tr>
 </table>
 
 </td></tr>
