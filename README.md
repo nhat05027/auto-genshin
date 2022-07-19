@@ -3,24 +3,24 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>18</td></tr>
+    <tr><td>Total rewards claimed</td><td>19</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png" width="120px">
             <br>
-            20 x Primogem
+            3 x Fisherman's Toast
         </td>
     </tr>
-    <tr><td>Last checked</td><td>18.07.2022 16:47:00 UTC</td></tr>
+    <tr><td>Last checked</td><td>19.07.2022 16:49:35 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>419</td></tr>
-    <tr><td>Active days</td><td>117</td></tr>
+    <tr><td>Active days</td><td>118</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>116</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>no most kills this seasson -> no most kills this seasson</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>no most bursts used this seasson -> no most bursts used this seasson</td></tr>
+    <tr><td>Total battles</td><td>27</td></tr>
+    <tr><td>Total wins</td><td>14</td></tr>
+    <tr><td>Max floor</td><td>12-3</td></tr>
+    <tr><td>Total stars</td><td>33</td></tr>
+    <tr><td>Strongest hit</td><td>Diluc -> 68866 DMG</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 77</td></tr>
+    <tr><td>Most damage taken</td><td>Diluc -> 124145 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Yelan -> 45</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 241</td></tr>
 </table>
 
 ## Exploration
@@ -392,7 +392,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>3 x Heart of Depth<br>2 x Blizzard Strayer</td></tr>
+    <tr><td>Artifacts</td><td>3 x Heart of Depth<br>1 x Gladiator's Finale<br>1 x Blizzard Strayer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -428,7 +428,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Blizzard Strayer<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Artifacts</td><td>3 x Blizzard Strayer<br>2 x Wanderer's Troupe</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -500,7 +500,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Emblem of Severed Fate<br>1 x Heart of Depth</td></tr>
+    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
