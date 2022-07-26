@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>25</td></tr>
+    <tr><td>Total rewards claimed</td><td>26</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png" width="120px">
             <br>
-            3 x Hero's Wit
+            3 x Almond Tofu
         </td>
     </tr>
-    <tr><td>Last checked</td><td>25.07.2022 16:43:38 UTC</td></tr>
+    <tr><td>Last checked</td><td>26.07.2022 16:44:20 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>421</td></tr>
-    <tr><td>Active days</td><td>124</td></tr>
+    <tr><td>Active days</td><td>125</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -354,7 +354,7 @@
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td>Gunnhildr's Legacy</td></tr>
