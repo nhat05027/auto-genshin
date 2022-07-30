@@ -3,7 +3,7 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>29</td></tr>
+    <tr><td>Total rewards claimed</td><td>30</td></tr>
     <tr><td>Last reward</td>
         <td>
             <img src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
@@ -11,22 +11,22 @@
             5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>29.07.2022 16:44:30 UTC</td></tr>
+    <tr><td>Last checked</td><td>30.07.2022 16:39:42 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>423</td></tr>
-    <tr><td>Active days</td><td>128</td></tr>
+    <tr><td>Achievements</td><td>424</td></tr>
+    <tr><td>Active days</td><td>129</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>118</td></tr>
-    <tr><td>Common chests</td><td>718</td></tr>
-    <tr><td>Exquisite chests</td><td>668</td></tr>
-    <tr><td>Precious chests</td><td>241</td></tr>
+    <tr><td>Common chests</td><td>748</td></tr>
+    <tr><td>Exquisite chests</td><td>680</td></tr>
+    <tr><td>Precious chests</td><td>247</td></tr>
     <tr><td>Luxurious chests</td><td>101</td></tr>
     <tr><td>Unlocked waypoints</td><td>181</td></tr>
     <tr><td>Unlocked domains</td><td>33</td></tr>
@@ -403,7 +403,7 @@
 <table>
     <tr><td>Name</td><td>Iron Sting</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
