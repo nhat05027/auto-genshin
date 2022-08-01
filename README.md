@@ -3,31 +3,31 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>1</td></tr>
+    <tr><td>Total rewards claimed</td><td>2</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
             <br>
-            3 x Adventurer's Experience
+            3 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>31.07.2022 16:39:18 UTC</td></tr>
+    <tr><td>Last checked</td><td>01.08.2022 16:47:53 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>428</td></tr>
-    <tr><td>Active days</td><td>130</td></tr>
+    <tr><td>Achievements</td><td>437</td></tr>
+    <tr><td>Active days</td><td>131</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
-    <tr><td>Spiral abyss</td><td>12-3</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
-    <tr><td>Electroculi</td><td>131</td></tr>
-    <tr><td>Common chests</td><td>767</td></tr>
-    <tr><td>Exquisite chests</td><td>692</td></tr>
-    <tr><td>Precious chests</td><td>248</td></tr>
-    <tr><td>Luxurious chests</td><td>103</td></tr>
+    <tr><td>Electroculi</td><td>158</td></tr>
+    <tr><td>Common chests</td><td>800</td></tr>
+    <tr><td>Exquisite chests</td><td>717</td></tr>
+    <tr><td>Precious chests</td><td>253</td></tr>
+    <tr><td>Luxurious chests</td><td>108</td></tr>
     <tr><td>Unlocked waypoints</td><td>181</td></tr>
     <tr><td>Unlocked domains</td><td>33</td></tr>
 </table>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>27</td></tr>
-    <tr><td>Total wins</td><td>14</td></tr>
-    <tr><td>Max floor</td><td>12-3</td></tr>
-    <tr><td>Total stars</td><td>33</td></tr>
-    <tr><td>Strongest hit</td><td>Diluc -> 68866 DMG</td></tr>
-    <tr><td>Most kills</td><td>Ayaka -> 77</td></tr>
-    <tr><td>Most damage taken</td><td>Diluc -> 124145 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Yelan -> 45</td></tr>
-    <tr><td>Most bursts used</td><td>Yelan -> 241</td></tr>
+    <tr><td>Total battles</td><td>0</td></tr>
+    <tr><td>Total wins</td><td>0</td></tr>
+    <tr><td>Max floor</td><td>0-0</td></tr>
+    <tr><td>Total stars</td><td>0</td></tr>
+    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
+    <tr><td>Most kills</td><td>no most kills this seasson -> no most kills this seasson</td></tr>
+    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
+    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
+    <tr><td>Most bursts used</td><td>no most bursts used this seasson -> no most bursts used this seasson</td></tr>
 </table>
 
 ## Exploration
@@ -108,11 +108,11 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>73.0%</td>
+                    <td>81.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>7</td>
+                    <td>8</td>
                 </tr>
             </table>
         </td>
@@ -944,7 +944,7 @@
     <tr><td>Name</td><td>Favonius Greatsword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
 </table>
 
 </td></tr>
