@@ -3,31 +3,31 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>2</td></tr>
+    <tr><td>Total rewards claimed</td><td>3</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
             <br>
-            3 x Fine Enhancement Ore
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>01.08.2022 16:47:53 UTC</td></tr>
+    <tr><td>Last checked</td><td>02.08.2022 16:47:21 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>437</td></tr>
-    <tr><td>Active days</td><td>131</td></tr>
-    <tr><td>Characters</td><td>26</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Achievements</td><td>442</td></tr>
+    <tr><td>Active days</td><td>132</td></tr>
+    <tr><td>Characters</td><td>27</td></tr>
+    <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
-    <tr><td>Electroculi</td><td>158</td></tr>
-    <tr><td>Common chests</td><td>800</td></tr>
-    <tr><td>Exquisite chests</td><td>717</td></tr>
-    <tr><td>Precious chests</td><td>253</td></tr>
-    <tr><td>Luxurious chests</td><td>108</td></tr>
+    <tr><td>Electroculi</td><td>181</td></tr>
+    <tr><td>Common chests</td><td>817</td></tr>
+    <tr><td>Exquisite chests</td><td>721</td></tr>
+    <tr><td>Precious chests</td><td>258</td></tr>
+    <tr><td>Luxurious chests</td><td>112</td></tr>
     <tr><td>Unlocked waypoints</td><td>181</td></tr>
     <tr><td>Unlocked domains</td><td>33</td></tr>
 </table>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>no most kills this seasson -> no most kills this seasson</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>no most bursts used this seasson -> no most bursts used this seasson</td></tr>
+    <tr><td>Total battles</td><td>10</td></tr>
+    <tr><td>Total wins</td><td>9</td></tr>
+    <tr><td>Max floor</td><td>11-3</td></tr>
+    <tr><td>Total stars</td><td>27</td></tr>
+    <tr><td>Strongest hit</td><td>Diluc -> 71985 DMG</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 29</td></tr>
+    <tr><td>Most damage taken</td><td>Diluc -> 123526 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Yelan -> 38</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 113</td></tr>
 </table>
 
 ## Exploration
@@ -108,7 +108,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>81.0%</td>
+                    <td>89.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -375,6 +375,42 @@
 </table>
 
 
+### Bennett
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Artifacts</td><td>2 x Maiden Beloved<br>2 x Emblem of Severed Fate<br>1 x Wanderer's Troupe</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Favonius Sword</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
 ### Xingqiu
 
 <table>
@@ -441,42 +477,6 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-
-### Bennett
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png" width="256"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>10</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>2 x Maiden Beloved<br>2 x Emblem of Severed Fate<br>1 x Wanderer's Troupe</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Favonius Sword</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -668,7 +668,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaeya.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Silver.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Steel.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -689,10 +689,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Silver Sword</td></tr>
-    <tr><td>Rarity</td><td>2</td></tr>
+    <tr><td>Name</td><td>Cool Steel</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -728,7 +728,7 @@
     <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>4</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -908,7 +908,79 @@
     <tr><td>Name</td><td>Rust</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
+### Yun Jin
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Noire.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Black Tassel</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
+### Xinyan
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Reasoning.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Debate Club</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -945,42 +1017,6 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>2</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-
-### Yun Jin
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Noire.png" width="256"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Geo</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Black Tassel</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -1064,7 +1100,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -1085,9 +1121,9 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Apprentice's Notes</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Name</td><td>Favonius Codex</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
