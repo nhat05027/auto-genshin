@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>8</td></tr>
+    <tr><td>Total rewards claimed</td><td>9</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
             <br>
-            3 x Adventurer's Experience
+            3 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>07.08.2022 16:39:03 UTC</td></tr>
+    <tr><td>Last checked</td><td>08.08.2022 16:45:18 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>443</td></tr>
-    <tr><td>Active days</td><td>137</td></tr>
+    <tr><td>Achievements</td><td>444</td></tr>
+    <tr><td>Active days</td><td>138</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>12-2</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -236,7 +236,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Youtou.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Exotic.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -257,7 +257,7 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Kagotsurube Isshin</td></tr>
+    <tr><td>Name</td><td>Iron Sting</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
@@ -392,7 +392,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>2 x Maiden Beloved<br>2 x Emblem of Severed Fate<br>1 x Wanderer's Troupe</td></tr>
+    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Maiden Beloved</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -416,7 +416,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Exotic.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Youtou.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -437,7 +437,7 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Iron Sting</td></tr>
+    <tr><td>Name</td><td>Kagotsurube Isshin</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
