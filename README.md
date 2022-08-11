@@ -3,28 +3,28 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>11</td></tr>
+    <tr><td>Total rewards claimed</td><td>12</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png" width="120px">
             <br>
-            20 x Primogem
+            3 x Fried Radish Balls
         </td>
     </tr>
-    <tr><td>Last checked</td><td>10.08.2022 16:48:57 UTC</td></tr>
+    <tr><td>Last checked</td><td>11.08.2022 16:42:27 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>444</td></tr>
-    <tr><td>Active days</td><td>140</td></tr>
+    <tr><td>Active days</td><td>141</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>12-2</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>820</td></tr>
+    <tr><td>Common chests</td><td>821</td></tr>
     <tr><td>Exquisite chests</td><td>725</td></tr>
     <tr><td>Precious chests</td><td>258</td></tr>
     <tr><td>Luxurious chests</td><td>113</td></tr>
@@ -35,7 +35,7 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>17</td></tr>
+    <tr><td>Total battles</td><td>24</td></tr>
     <tr><td>Total wins</td><td>12</td></tr>
     <tr><td>Max floor</td><td>12-2</td></tr>
     <tr><td>Total stars</td><td>31</td></tr>
@@ -464,7 +464,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>3 x Blizzard Strayer<br>2 x Wanderer's Troupe</td></tr>
+    <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
