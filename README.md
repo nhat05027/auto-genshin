@@ -3,24 +3,24 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>17</td></tr>
+    <tr><td>Total rewards claimed</td><td>18</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
             <br>
-            5000 x Mora
+            20 x Primogem
         </td>
     </tr>
-    <tr><td>Last checked</td><td>16.08.2022 16:43:25 UTC</td></tr>
+    <tr><td>Last checked</td><td>17.08.2022 16:48:26 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>445</td></tr>
-    <tr><td>Active days</td><td>146</td></tr>
+    <tr><td>Active days</td><td>147</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>no most kills this seasson -> no most kills this seasson</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>no most bursts used this seasson -> no most bursts used this seasson</td></tr>
+    <tr><td>Total battles</td><td>9</td></tr>
+    <tr><td>Total wins</td><td>9</td></tr>
+    <tr><td>Max floor</td><td>11-3</td></tr>
+    <tr><td>Total stars</td><td>27</td></tr>
+    <tr><td>Strongest hit</td><td>Diluc -> 83878 DMG</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 45</td></tr>
+    <tr><td>Most damage taken</td><td>Diluc -> 78834 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Diluc -> 34</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 114</td></tr>
 </table>
 
 ## Exploration
