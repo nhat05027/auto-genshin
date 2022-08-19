@@ -11,21 +11,21 @@
             3 x Fisherman's Toast
         </td>
     </tr>
-    <tr><td>Last checked</td><td>18.08.2022 17:07:35 UTC</td></tr>
+    <tr><td>Last checked</td><td>19.08.2022 08:32:47 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>445</td></tr>
-    <tr><td>Active days</td><td>148</td></tr>
-    <tr><td>Characters</td><td>27</td></tr>
+    <tr><td>Achievements</td><td>446</td></tr>
+    <tr><td>Active days</td><td>149</td></tr>
+    <tr><td>Characters</td><td>28</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>825</td></tr>
-    <tr><td>Exquisite chests</td><td>725</td></tr>
+    <tr><td>Common chests</td><td>844</td></tr>
+    <tr><td>Exquisite chests</td><td>733</td></tr>
     <tr><td>Precious chests</td><td>258</td></tr>
     <tr><td>Luxurious chests</td><td>113</td></tr>
     <tr><td>Unlocked waypoints</td><td>181</td></tr>
@@ -108,7 +108,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>89.0%</td>
+                    <td>92.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -132,7 +132,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>67.1%</td>
+                    <td>67.3%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -533,7 +533,7 @@
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>3 x The Exile</td></tr>
@@ -693,6 +693,42 @@
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
+### Beidou
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Waster Greatsword</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
