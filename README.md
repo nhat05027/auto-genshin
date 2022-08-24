@@ -3,32 +3,32 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>24</td></tr>
+    <tr><td>Total rewards claimed</td><td>25</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png" width="120px">
             <br>
-            5000 x Mora
+            3 x Hero's Wit
         </td>
     </tr>
-    <tr><td>Last checked</td><td>23.08.2022 16:43:28 UTC</td></tr>
+    <tr><td>Last checked</td><td>24.08.2022 16:42:05 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>448</td></tr>
-    <tr><td>Active days</td><td>153</td></tr>
-    <tr><td>Characters</td><td>28</td></tr>
+    <tr><td>Achievements</td><td>450</td></tr>
+    <tr><td>Active days</td><td>154</td></tr>
+    <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>866</td></tr>
-    <tr><td>Exquisite chests</td><td>744</td></tr>
+    <tr><td>Common chests</td><td>871</td></tr>
+    <tr><td>Exquisite chests</td><td>745</td></tr>
     <tr><td>Precious chests</td><td>261</td></tr>
     <tr><td>Luxurious chests</td><td>113</td></tr>
-    <tr><td>Unlocked waypoints</td><td>181</td></tr>
+    <tr><td>Unlocked waypoints</td><td>198</td></tr>
     <tr><td>Unlocked domains</td><td>33</td></tr>
 </table>
 
@@ -50,6 +50,7 @@
 
 <table>
     <tr>
+        <th>Sumeru</th>
         <th>The Chasm: Underground Mines</th>
         <th>The Chasm</th>
         <th>Enkanomiya</th>
@@ -59,6 +60,7 @@
         <th>Mondstadt</th>
     </tr>
     <tr>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png" width="180"></p></td>
@@ -68,6 +70,18 @@
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
     </tr>
     <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>1.0%</td>
+                </tr>
+                <tr>
+                    <td>Reputation level</td>
+                    <td>1</td>
+                </tr>
+            </table>
+        </td>
         <td>
             <table>
                 <tr>
@@ -84,7 +98,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>38.9%</td>
+                    <td>42.4%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -248,7 +262,7 @@
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Tenacity of the Millelith</td></tr>
+    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -339,6 +353,42 @@
 </table>
 
 
+### Tighnari
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Dendro</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Wanderer's Troupe</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Fading Twilight</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
 ### Jean
 
 <table>
@@ -369,6 +419,42 @@
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
+### Qiqi
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Rockkiller.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Lion's Roar</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -500,7 +586,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -535,7 +621,7 @@
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td>2 x Vermillion Hereafter<br>2 x Shimenawa's Reminiscence<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td>Ein Immernachtstraum</td></tr>
 </table>
@@ -944,7 +1030,7 @@
     <tr><td>Name</td><td>Rust</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>2</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>
@@ -980,7 +1066,7 @@
     <tr><td>Name</td><td>Black Tassel</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -1064,7 +1150,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -1075,7 +1161,7 @@
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td>100% Outrider</td></tr>
 </table>
@@ -1085,10 +1171,46 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Fading Twilight</td></tr>
+    <tr><td>Name</td><td>Hunter's Bow</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
+### Diona
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Sacrificial Bow</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>
@@ -1161,6 +1283,42 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>2</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
+### Collei
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Dendro</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Hunter's Bow</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
