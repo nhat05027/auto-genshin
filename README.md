@@ -3,33 +3,33 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>26</td></tr>
+    <tr><td>Total rewards claimed</td><td>27</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            3 x Almond Tofu
+            3 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>25.08.2022 16:44:25 UTC</td></tr>
+    <tr><td>Last checked</td><td>26.08.2022 16:43:30 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>464</td></tr>
-    <tr><td>Active days</td><td>155</td></tr>
+    <tr><td>Achievements</td><td>488</td></tr>
+    <tr><td>Active days</td><td>156</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>904</td></tr>
-    <tr><td>Exquisite chests</td><td>752</td></tr>
-    <tr><td>Precious chests</td><td>269</td></tr>
-    <tr><td>Luxurious chests</td><td>113</td></tr>
-    <tr><td>Unlocked waypoints</td><td>219</td></tr>
-    <tr><td>Unlocked domains</td><td>39</td></tr>
+    <tr><td>Common chests</td><td>977</td></tr>
+    <tr><td>Exquisite chests</td><td>775</td></tr>
+    <tr><td>Precious chests</td><td>275</td></tr>
+    <tr><td>Luxurious chests</td><td>118</td></tr>
+    <tr><td>Unlocked waypoints</td><td>234</td></tr>
+    <tr><td>Unlocked domains</td><td>40</td></tr>
 </table>
 
 ## Spiral Abyss
@@ -74,7 +74,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>7.0%</td>
+                    <td>17.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -86,7 +86,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>89.4%</td>
+                    <td>89.6%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -294,11 +294,11 @@
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Element</td><td>Dendro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>0</td></tr>
-    <tr><td>Constellation</td><td>6</td></tr>
-    <tr><td>Artifacts</td><td>4 x Gladiator's Finale</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Artifacts</td><td>5 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -358,7 +358,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arakalari.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -370,7 +370,7 @@
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>5 x Wanderer's Troupe</td></tr>
+    <tr><td>Artifacts</td><td>4 x Wanderer's Troupe<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -379,9 +379,9 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Sacrificial Bow</td></tr>
+    <tr><td>Name</td><td>King's Squire</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
@@ -514,7 +514,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>3 x Heart of Depth<br>1 x Gladiator's Finale<br>1 x Blizzard Strayer</td></tr>
+    <tr><td>Artifacts</td><td>3 x Heart of Depth<br>1 x Wanderer's Troupe<br>1 x Blizzard Strayer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -619,7 +619,7 @@
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td>2 x Vermillion Hereafter<br>2 x Shimenawa's Reminiscence<br>1 x Tenacity of the Millelith</td></tr>
@@ -641,12 +641,48 @@
 </table>
 
 
+### Collei
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Dendro</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td>1 x Gilded Dreams</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Sacrificial Bow</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
 ### Razor
 
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Siegfry.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -658,42 +694,6 @@
     <tr><td>Level</td><td>50</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>1 x The Exile<br>1 x Maiden Beloved<br>1 x Instructor<br>1 x Gladiator's Finale</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Waster Greatsword</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-
-### Collei
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png" width="256"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Dendro</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -703,10 +703,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Hunter's Bow</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Name</td><td>Bloodtainted Greatsword</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -730,7 +730,7 @@
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>5</td></tr>
-    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>1 x Heart of Depth<br>1 x Echoes of an Offering<br>1 x Blizzard Strayer</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -766,7 +766,7 @@
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -802,7 +802,7 @@
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>4 x Berserker<br>1 x The Exile</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -874,7 +874,7 @@
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td>2 x Adventurer<br>1 x Traveling Doctor<br>1 x The Exile<br>1 x Berserker</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -1006,7 +1006,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -1027,8 +1027,8 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Beginner's Protector</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Name</td><td>Favonius Lance</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
@@ -1222,7 +1222,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Sling.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -1243,10 +1243,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Hunter's Bow</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Name</td><td>Slingshot</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -1270,7 +1270,7 @@
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Traveling Doctor<br>2 x Resolution of Sojourner<br>1 x Adventurer</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
