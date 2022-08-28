@@ -3,31 +3,31 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>28</td></tr>
+    <tr><td>Total rewards claimed</td><td>29</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            3 x Hero's Wit
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>27.08.2022 16:40:23 UTC</td></tr>
+    <tr><td>Last checked</td><td>28.08.2022 16:40:57 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>495</td></tr>
-    <tr><td>Active days</td><td>157</td></tr>
+    <tr><td>Achievements</td><td>502</td></tr>
+    <tr><td>Active days</td><td>158</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1020</td></tr>
-    <tr><td>Exquisite chests</td><td>807</td></tr>
-    <tr><td>Precious chests</td><td>287</td></tr>
-    <tr><td>Luxurious chests</td><td>123</td></tr>
+    <tr><td>Common chests</td><td>1075</td></tr>
+    <tr><td>Exquisite chests</td><td>826</td></tr>
+    <tr><td>Precious chests</td><td>291</td></tr>
+    <tr><td>Luxurious chests</td><td>125</td></tr>
     <tr><td>Unlocked waypoints</td><td>234</td></tr>
     <tr><td>Unlocked domains</td><td>40</td></tr>
 </table>
@@ -86,7 +86,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>89.6%</td>
+                    <td>95.0%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -110,7 +110,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>77.4%</td>
+                    <td>95.0%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -633,7 +633,7 @@
 <table>
     <tr><td>Name</td><td>The Stringless</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
@@ -657,7 +657,7 @@
     <tr><td>Element</td><td>Dendro</td></tr>
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>1 x Gilded Dreams</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -1065,7 +1065,7 @@
 <table>
     <tr><td>Name</td><td>Favonius Lance</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
