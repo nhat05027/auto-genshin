@@ -3,7 +3,7 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Total rewards claimed</td><td>29</td></tr>
+    <tr><td>Total rewards claimed</td><td>30</td></tr>
     <tr><td>Last reward</td>
         <td>
             <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
@@ -11,22 +11,22 @@
             5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>28.08.2022 16:40:57 UTC</td></tr>
+    <tr><td>Last checked</td><td>29.08.2022 16:45:02 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>502</td></tr>
-    <tr><td>Active days</td><td>158</td></tr>
-    <tr><td>Characters</td><td>32</td></tr>
-    <tr><td>Spiral abyss</td><td>11-3</td></tr>
+    <tr><td>Achievements</td><td>523</td></tr>
+    <tr><td>Active days</td><td>159</td></tr>
+    <tr><td>Characters</td><td>33</td></tr>
+    <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1075</td></tr>
-    <tr><td>Exquisite chests</td><td>826</td></tr>
-    <tr><td>Precious chests</td><td>291</td></tr>
+    <tr><td>Common chests</td><td>1076</td></tr>
+    <tr><td>Exquisite chests</td><td>827</td></tr>
+    <tr><td>Precious chests</td><td>292</td></tr>
     <tr><td>Luxurious chests</td><td>125</td></tr>
     <tr><td>Unlocked waypoints</td><td>234</td></tr>
     <tr><td>Unlocked domains</td><td>40</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>9</td></tr>
-    <tr><td>Total wins</td><td>9</td></tr>
-    <tr><td>Max floor</td><td>11-3</td></tr>
-    <tr><td>Total stars</td><td>27</td></tr>
+    <tr><td>Total battles</td><td>30</td></tr>
+    <tr><td>Total wins</td><td>22</td></tr>
+    <tr><td>Max floor</td><td>12-3</td></tr>
+    <tr><td>Total stars</td><td>60</td></tr>
     <tr><td>Strongest hit</td><td>Diluc -> 83878 DMG</td></tr>
-    <tr><td>Most kills</td><td>Ayaka -> 45</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 53</td></tr>
     <tr><td>Most damage taken</td><td>Diluc -> 78834 DMG</td></tr>
     <tr><td>Most skills used</td><td>Diluc -> 34</td></tr>
-    <tr><td>Most bursts used</td><td>Yelan -> 114</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 166</td></tr>
 </table>
 
 ## Exploration
@@ -74,7 +74,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>29.0%</td>
+                    <td>30.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -126,7 +126,7 @@
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>9</td>
+                    <td>10</td>
                 </tr>
             </table>
         </td>
@@ -334,7 +334,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Gladiator's Finale<br>1 x Pale Flame</td></tr>
+    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>1 x Pale Flame<br>1 x Heart of Depth<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -461,6 +461,78 @@
 </table>
 
 
+### Mona
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Hydro</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td>Pact of Stars and Moon</td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
+### Fischl
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>6</td></tr>
+    <tr><td>Artifacts</td><td>2 x Vermillion Hereafter<br>2 x Shimenawa's Reminiscence<br>1 x Tenacity of the Millelith</td></tr>
+    <tr><td>Outfits</td><td>Ein Immernachtstraum</td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>The Stringless</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
 ### Bennett
 
 <table>
@@ -514,7 +586,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>3 x Heart of Depth<br>1 x Wanderer's Troupe<br>1 x Blizzard Strayer</td></tr>
+    <tr><td>Artifacts</td><td>2 x Heart of Depth<br>1 x Wanderer's Troupe<br>1 x Gladiator's Finale<br>1 x Blizzard Strayer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -605,42 +677,6 @@
 </table>
 
 
-### Fischl
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png" width="256"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>3</td></tr>
-    <tr><td>Constellation</td><td>6</td></tr>
-    <tr><td>Artifacts</td><td>2 x Vermillion Hereafter<br>2 x Shimenawa's Reminiscence<br>1 x Tenacity of the Millelith</td></tr>
-    <tr><td>Outfits</td><td>Ein Immernachtstraum</td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>The Stringless</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-
 ### Collei
 
 <table>
@@ -718,7 +754,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -739,10 +775,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Name</td><td>Apprentice's Notes</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -850,7 +886,43 @@
     <tr><td>Name</td><td>Sacrificial Greatsword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>50</td></tr>
-    <tr><td>Refinement</td><td>4</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
+### Diona
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>4</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Fading Twilight</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -923,42 +995,6 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-
-### Diona
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png" width="256"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Fading Twilight</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
