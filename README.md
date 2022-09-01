@@ -3,29 +3,29 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>1</td></tr>
+    <tr><td>Total rewards claimed</td><td>2</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
             <br>
-            3 x Adventurer's Experience
+            3 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>31.08.2022 16:44:30 UTC</td></tr>
+    <tr><td>Last checked</td><td>01.09.2022 16:45:37 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>534</td></tr>
-    <tr><td>Active days</td><td>161</td></tr>
+    <tr><td>Active days</td><td>162</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
-    <tr><td>Spiral abyss</td><td>12-3</td></tr>
+    <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1160</td></tr>
-    <tr><td>Exquisite chests</td><td>871</td></tr>
+    <tr><td>Common chests</td><td>1166</td></tr>
+    <tr><td>Exquisite chests</td><td>875</td></tr>
     <tr><td>Precious chests</td><td>304</td></tr>
     <tr><td>Luxurious chests</td><td>128</td></tr>
     <tr><td>Unlocked waypoints</td><td>235</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>30</td></tr>
-    <tr><td>Total wins</td><td>22</td></tr>
-    <tr><td>Max floor</td><td>12-3</td></tr>
-    <tr><td>Total stars</td><td>60</td></tr>
-    <tr><td>Strongest hit</td><td>Diluc -> 83878 DMG</td></tr>
-    <tr><td>Most kills</td><td>Ayaka -> 53</td></tr>
-    <tr><td>Most damage taken</td><td>Diluc -> 78834 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Diluc -> 34</td></tr>
-    <tr><td>Most bursts used</td><td>Yelan -> 166</td></tr>
+    <tr><td>Total battles</td><td>23</td></tr>
+    <tr><td>Total wins</td><td>10</td></tr>
+    <tr><td>Max floor</td><td>11-3</td></tr>
+    <tr><td>Total stars</td><td>27</td></tr>
+    <tr><td>Strongest hit</td><td>Fischl -> 48562 DMG</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 66</td></tr>
+    <tr><td>Most damage taken</td><td>Fischl -> 61205 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Yelan -> 28</td></tr>
+    <tr><td>Most bursts used</td><td>Bennett -> 66</td></tr>
 </table>
 
 ## Exploration
@@ -158,7 +158,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>77.1%</td>
+                    <td>77.7%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -294,10 +294,10 @@
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Element</td><td>Dendro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>0</td></tr>
-    <tr><td>Constellation</td><td>6</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
     <tr><td>Artifacts</td><td>4 x Deepwood Memories<br>1 x Pale Flame</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -309,7 +309,7 @@
 <table>
     <tr><td>Name</td><td>Sapwood Blade</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -389,6 +389,42 @@
 </table>
 
 
+### Mona
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Hydro</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Echoes of an Offering</td></tr>
+    <tr><td>Outfits</td><td>Pact of Stars and Moon</td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>The Widsith</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
 ### Jean
 
 <table>
@@ -455,42 +491,6 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-
-### Mona
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png" width="256"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Hydro</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td>Pact of Stars and Moon</td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -694,7 +694,7 @@
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>4 x Gladiator's Finale<br>1 x Heart of Depth</td></tr>
+    <tr><td>Artifacts</td><td>3 x Deepwood Memories<br>1 x Gladiator's Finale<br>1 x Gilded Dreams</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -765,7 +765,7 @@
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>5</td></tr>
+    <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -909,8 +909,8 @@
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>4</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Constellation</td><td>5</td></tr>
+    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Wanderer's Troupe</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -1330,7 +1330,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -1351,10 +1351,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>The Widsith</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Refinement</td><td>2</td></tr>
+    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
