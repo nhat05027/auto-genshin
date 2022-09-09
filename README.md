@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>9</td></tr>
+    <tr><td>Total rewards claimed</td><td>10</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            3 x Fine Enhancement Ore
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>08.09.2022 16:49:19 UTC</td></tr>
+    <tr><td>Last checked</td><td>09.09.2022 16:47:39 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>537</td></tr>
-    <tr><td>Active days</td><td>169</td></tr>
+    <tr><td>Active days</td><td>170</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -394,7 +394,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -403,7 +403,7 @@
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>66</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Echoes of an Offering</td></tr>
@@ -415,10 +415,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>The Widsith</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Refinement</td><td>2</td></tr>
+    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -525,7 +525,7 @@
 <table>
     <tr><td>Name</td><td>Sapwood Blade</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>86</td></tr>
+    <tr><td>Level</td><td>87</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -706,7 +706,7 @@
     <tr><td>Name</td><td>End of the Line</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -790,7 +790,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -811,8 +811,8 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Apprentice's Notes</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Name</td><td>Eye of Perception</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
@@ -1330,7 +1330,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -1351,10 +1351,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Name</td><td>The Widsith</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
 </table>
 
 </td></tr>
