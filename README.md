@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>13</td></tr>
+    <tr><td>Total rewards claimed</td><td>14</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            2 x Adventurer's Experience
+            8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>12.09.2022 16:51:09 UTC</td></tr>
+    <tr><td>Last checked</td><td>13.09.2022 16:49:17 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>537</td></tr>
-    <tr><td>Active days</td><td>173</td></tr>
+    <tr><td>Active days</td><td>174</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
