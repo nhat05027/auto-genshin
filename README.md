@@ -3,24 +3,24 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>18</td></tr>
+    <tr><td>Total rewards claimed</td><td>19</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png" width="120px">
             <br>
-            20 x Primogem
+            3 x Fisherman's Toast
         </td>
     </tr>
-    <tr><td>Last checked</td><td>17.09.2022 16:45:20 UTC</td></tr>
+    <tr><td>Last checked</td><td>18.09.2022 16:45:08 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>539</td></tr>
-    <tr><td>Active days</td><td>178</td></tr>
+    <tr><td>Active days</td><td>179</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
-    <tr><td>Spiral abyss</td><td>11-3</td></tr>
+    <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>9</td></tr>
-    <tr><td>Total wins</td><td>9</td></tr>
-    <tr><td>Max floor</td><td>11-3</td></tr>
-    <tr><td>Total stars</td><td>27</td></tr>
+    <tr><td>Total battles</td><td>17</td></tr>
+    <tr><td>Total wins</td><td>12</td></tr>
+    <tr><td>Max floor</td><td>12-3</td></tr>
+    <tr><td>Total stars</td><td>35</td></tr>
     <tr><td>Strongest hit</td><td>Ayaka -> 49302 DMG</td></tr>
-    <tr><td>Most kills</td><td>Fischl -> 36</td></tr>
-    <tr><td>Most damage taken</td><td>Yelan -> 42804 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Yelan -> 23</td></tr>
-    <tr><td>Most bursts used</td><td>Yelan -> 54</td></tr>
+    <tr><td>Most kills</td><td>Fischl -> 41</td></tr>
+    <tr><td>Most damage taken</td><td>Tighnari -> 59023 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Yelan -> 37</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 95</td></tr>
 </table>
 
 ## Exploration
@@ -417,7 +417,7 @@
 <table>
     <tr><td>Name</td><td>The Widsith</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>83</td></tr>
+    <tr><td>Level</td><td>88</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
