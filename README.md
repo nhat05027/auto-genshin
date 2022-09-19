@@ -3,29 +3,29 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>19</td></tr>
+    <tr><td>Total rewards claimed</td><td>20</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            3 x Fisherman's Toast
+            3 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>18.09.2022 16:45:08 UTC</td></tr>
+    <tr><td>Last checked</td><td>19.09.2022 16:49:26 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>539</td></tr>
-    <tr><td>Active days</td><td>179</td></tr>
+    <tr><td>Achievements</td><td>540</td></tr>
+    <tr><td>Active days</td><td>180</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
     <tr><td>Common chests</td><td>1180</td></tr>
-    <tr><td>Exquisite chests</td><td>892</td></tr>
+    <tr><td>Exquisite chests</td><td>893</td></tr>
     <tr><td>Precious chests</td><td>307</td></tr>
     <tr><td>Luxurious chests</td><td>129</td></tr>
     <tr><td>Unlocked waypoints</td><td>235</td></tr>
@@ -78,7 +78,7 @@
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>4</td>
+                    <td>5</td>
                 </tr>
             </table>
         </td>
@@ -406,7 +406,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Echoes of an Offering</td></tr>
+    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Viridescent Venerer</td></tr>
     <tr><td>Outfits</td><td>Pact of Stars and Moon</td></tr>
 </table>
 
@@ -417,7 +417,7 @@
 <table>
     <tr><td>Name</td><td>The Widsith</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>88</td></tr>
+    <tr><td>Level</td><td>89</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
@@ -439,7 +439,7 @@
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
@@ -548,7 +548,7 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td>2 x Shimenawa's Reminiscence<br>2 x Gladiator's Finale<br>1 x Maiden Beloved</td></tr>
     <tr><td>Outfits</td><td>Ein Immernachtstraum</td></tr>
