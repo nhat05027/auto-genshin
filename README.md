@@ -3,30 +3,30 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>23</td></tr>
+    <tr><td>Total rewards claimed</td><td>24</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            5 x Fine Enhancement Ore
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>22.09.2022 16:50:16 UTC</td></tr>
+    <tr><td>Last checked</td><td>23.09.2022 16:50:57 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>541</td></tr>
-    <tr><td>Active days</td><td>183</td></tr>
+    <tr><td>Active days</td><td>184</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1182</td></tr>
-    <tr><td>Exquisite chests</td><td>894</td></tr>
-    <tr><td>Precious chests</td><td>307</td></tr>
+    <tr><td>Common chests</td><td>1185</td></tr>
+    <tr><td>Exquisite chests</td><td>897</td></tr>
+    <tr><td>Precious chests</td><td>308</td></tr>
     <tr><td>Luxurious chests</td><td>129</td></tr>
     <tr><td>Unlocked waypoints</td><td>235</td></tr>
     <tr><td>Unlocked domains</td><td>40</td></tr>
@@ -158,7 +158,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>78.4%</td>
+                    <td>79.2%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -404,7 +404,7 @@
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Viridescent Venerer</td></tr>
     <tr><td>Outfits</td><td>Pact of Stars and Moon</td></tr>
@@ -692,7 +692,7 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>5</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Pale Flame</td></tr>
     <tr><td>Outfits</td><td></td></tr>
