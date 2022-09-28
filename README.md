@@ -3,30 +3,30 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>28</td></tr>
+    <tr><td>Total rewards claimed</td><td>29</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            3 x Hero's Wit
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>27.09.2022 16:55:05 UTC</td></tr>
+    <tr><td>Last checked</td><td>28.09.2022 16:58:14 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>542</td></tr>
-    <tr><td>Active days</td><td>188</td></tr>
+    <tr><td>Achievements</td><td>552</td></tr>
+    <tr><td>Active days</td><td>189</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1189</td></tr>
-    <tr><td>Exquisite chests</td><td>901</td></tr>
-    <tr><td>Precious chests</td><td>308</td></tr>
+    <tr><td>Common chests</td><td>1195</td></tr>
+    <tr><td>Exquisite chests</td><td>906</td></tr>
+    <tr><td>Precious chests</td><td>309</td></tr>
     <tr><td>Luxurious chests</td><td>129</td></tr>
     <tr><td>Unlocked waypoints</td><td>235</td></tr>
     <tr><td>Unlocked domains</td><td>40</td></tr>
@@ -74,11 +74,11 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>30.0%</td>
+                    <td>32.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>5</td>
+                    <td>6</td>
                 </tr>
             </table>
         </td>
@@ -333,7 +333,7 @@
     <tr><td>Element</td><td>Dendro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>0</td></tr>
-    <tr><td>Constellation</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>4 x Deepwood Memories</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -729,7 +729,7 @@
     <tr><td>Element</td><td>Dendro</td></tr>
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
-    <tr><td>Constellation</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>3 x Deepwood Memories<br>1 x Gladiator's Finale<br>1 x Gilded Dreams</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
