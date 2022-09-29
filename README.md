@@ -3,7 +3,7 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>29</td></tr>
+    <tr><td>Total rewards claimed</td><td>30</td></tr>
     <tr><td>Last reward</td>
         <td>
             <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
@@ -11,14 +11,14 @@
             5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>28.09.2022 16:58:14 UTC</td></tr>
+    <tr><td>Last checked</td><td>29.09.2022 16:54:46 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>552</td></tr>
-    <tr><td>Active days</td><td>189</td></tr>
+    <tr><td>Active days</td><td>190</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -202,7 +202,7 @@
     <tr><td>Name</td><td>Favonius Warbow</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
+    <tr><td>Refinement</td><td>4</td></tr>
 </table>
 
 </td></tr>
@@ -370,7 +370,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>3 x Wanderer's Troupe<br>1 x Shimenawa's Reminiscence<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>1 x Shimenawa's Reminiscence</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
