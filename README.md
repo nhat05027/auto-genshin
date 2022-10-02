@@ -3,24 +3,24 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>2</td></tr>
+    <tr><td>Total rewards claimed</td><td>3</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            3 x Fine Enhancement Ore
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>01.10.2022 16:48:21 UTC</td></tr>
+    <tr><td>Last checked</td><td>02.10.2022 16:48:02 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>552</td></tr>
-    <tr><td>Active days</td><td>192</td></tr>
+    <tr><td>Achievements</td><td>553</td></tr>
+    <tr><td>Active days</td><td>193</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>no most kills this seasson -> no most kills this seasson</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>no most bursts used this seasson -> no most bursts used this seasson</td></tr>
+    <tr><td>Total battles</td><td>17</td></tr>
+    <tr><td>Total wins</td><td>12</td></tr>
+    <tr><td>Max floor</td><td>12-3</td></tr>
+    <tr><td>Total stars</td><td>36</td></tr>
+    <tr><td>Strongest hit</td><td>Ayaka -> 64131 DMG</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 104</td></tr>
+    <tr><td>Most damage taken</td><td>Tighnari -> 57301 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Yelan -> 47</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 96</td></tr>
 </table>
 
 ## Exploration
@@ -622,7 +622,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>2 x Heart of Depth<br>1 x Blizzard Strayer</td></tr>
+    <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>2 x Heart of Depth<br>1 x Gilded Dreams</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
