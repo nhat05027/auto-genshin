@@ -3,28 +3,28 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>7</td></tr>
+    <tr><td>Total rewards claimed</td><td>8</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            8000 x Mora
+            3 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>06.10.2022 16:54:30 UTC</td></tr>
+    <tr><td>Last checked</td><td>07.10.2022 16:57:16 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>553</td></tr>
-    <tr><td>Active days</td><td>197</td></tr>
+    <tr><td>Active days</td><td>198</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1207</td></tr>
+    <tr><td>Common chests</td><td>1208</td></tr>
     <tr><td>Exquisite chests</td><td>909</td></tr>
     <tr><td>Precious chests</td><td>310</td></tr>
     <tr><td>Luxurious chests</td><td>130</td></tr>
@@ -158,7 +158,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>81.2%</td>
+                    <td>81.3%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
