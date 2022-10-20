@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>20</td></tr>
+    <tr><td>Total rewards claimed</td><td>21</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            3 x Adventurer's Experience
+            8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>19.10.2022 17:01:29 UTC</td></tr>
+    <tr><td>Last checked</td><td>20.10.2022 16:57:14 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>560</td></tr>
-    <tr><td>Active days</td><td>210</td></tr>
+    <tr><td>Active days</td><td>211</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>19</td></tr>
-    <tr><td>Total wins</td><td>12</td></tr>
+    <tr><td>Total battles</td><td>32</td></tr>
+    <tr><td>Total wins</td><td>15</td></tr>
     <tr><td>Max floor</td><td>12-3</td></tr>
     <tr><td>Total stars</td><td>36</td></tr>
     <tr><td>Strongest hit</td><td>Yelan -> 68693 DMG</td></tr>
-    <tr><td>Most kills</td><td>Ayaka -> 90</td></tr>
-    <tr><td>Most damage taken</td><td>Yelan -> 58450 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Yelan -> 31</td></tr>
-    <tr><td>Most bursts used</td><td>Yelan -> 112</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 107</td></tr>
+    <tr><td>Most damage taken</td><td>Yelan -> 61395 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Yelan -> 57</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 165</td></tr>
 </table>
 
 ## Exploration
@@ -898,7 +898,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -919,10 +919,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Sacrificial Greatsword</td></tr>
+    <tr><td>Name</td><td>Serpent Spine</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>50</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
