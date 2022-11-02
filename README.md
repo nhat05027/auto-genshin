@@ -3,30 +3,30 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>2</td></tr>
+    <tr><td>Total rewards claimed</td><td>3</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            3 x Fine Enhancement Ore
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>01.11.2022 16:49:48 UTC</td></tr>
+    <tr><td>Last checked</td><td>02.11.2022 16:52:15 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>563</td></tr>
-    <tr><td>Active days</td><td>223</td></tr>
-    <tr><td>Characters</td><td>33</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Achievements</td><td>569</td></tr>
+    <tr><td>Active days</td><td>224</td></tr>
+    <tr><td>Characters</td><td>34</td></tr>
+    <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1223</td></tr>
-    <tr><td>Exquisite chests</td><td>921</td></tr>
-    <tr><td>Precious chests</td><td>311</td></tr>
+    <tr><td>Common chests</td><td>1226</td></tr>
+    <tr><td>Exquisite chests</td><td>925</td></tr>
+    <tr><td>Precious chests</td><td>312</td></tr>
     <tr><td>Luxurious chests</td><td>130</td></tr>
     <tr><td>Unlocked waypoints</td><td>235</td></tr>
     <tr><td>Unlocked domains</td><td>40</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>no most kills this seasson -> no most kills this seasson</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>no most bursts used this seasson -> no most bursts used this seasson</td></tr>
+    <tr><td>Total battles</td><td>22</td></tr>
+    <tr><td>Total wins</td><td>12</td></tr>
+    <tr><td>Max floor</td><td>12-3</td></tr>
+    <tr><td>Total stars</td><td>36</td></tr>
+    <tr><td>Strongest hit</td><td>Yelan -> 72610 DMG</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 103</td></tr>
+    <tr><td>Most damage taken</td><td>Nahida -> 92213 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Nahida -> 38</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 77</td></tr>
 </table>
 
 ## Exploration
@@ -78,7 +78,7 @@
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>8</td>
+                    <td>9</td>
                 </tr>
             </table>
         </td>
@@ -333,7 +333,7 @@
     <tr><td>Element</td><td>Dendro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>0</td></tr>
-    <tr><td>Constellation</td><td>4</td></tr>
+    <tr><td>Constellation</td><td>5</td></tr>
     <tr><td>Artifacts</td><td>5 x Deepwood Memories</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -405,8 +405,8 @@
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>1 x Heart of Depth</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Gladiator's Finale<br>1 x Deepwood Memories</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -418,7 +418,7 @@
     <tr><td>Name</td><td>Rainslasher</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
 </table>
 
 </td></tr>
@@ -455,6 +455,42 @@
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
+### Nahida
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Dendro</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Deepwood Memories<br>1 x Heart of Depth</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>The Widsith</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>
@@ -513,7 +549,7 @@
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>81</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Maiden Beloved</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -548,7 +584,7 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td>2 x Shimenawa's Reminiscence<br>2 x Gladiator's Finale<br>1 x Maiden Beloved</td></tr>
     <tr><td>Outfits</td><td>Ein Immernachtstraum</td></tr>
@@ -598,7 +634,7 @@
     <tr><td>Name</td><td>Sacrificial Bow</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
+    <tr><td>Refinement</td><td>4</td></tr>
 </table>
 
 </td></tr>
@@ -658,7 +694,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>2 x Emblem of Severed Fate<br>1 x Wanderer's Troupe<br>1 x Pale Flame<br>1 x Heart of Depth</td></tr>
+    <tr><td>Artifacts</td><td>3 x Emblem of Severed Fate<br>1 x Pale Flame<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -785,6 +821,42 @@
 </table>
 
 
+### Noelle
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>6</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>The Bell</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
 ### Barbara
 
 <table>
@@ -815,42 +887,6 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-
-### Noelle
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png" width="256"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Geo</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Friendship</td><td>3</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>The Bell</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Refinement</td><td>2</td></tr>
 </table>
 
 </td></tr>
@@ -1330,7 +1366,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -1342,7 +1378,7 @@
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Deepwood Memories<br>1 x Heart of Depth</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -1351,10 +1387,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>The Widsith</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
+    <tr><td>Name</td><td>Apprentice's Notes</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
