@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>9</td></tr>
+    <tr><td>Total rewards claimed</td><td>10</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            3 x Fine Enhancement Ore
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>08.11.2022 16:51:10 UTC</td></tr>
+    <tr><td>Last checked</td><td>09.11.2022 16:44:16 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>569</td></tr>
-    <tr><td>Active days</td><td>230</td></tr>
+    <tr><td>Active days</td><td>231</td></tr>
     <tr><td>Characters</td><td>34</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -946,7 +946,7 @@
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Gilded Dreams<br>1 x Viridescent Venerer</td></tr>
+    <tr><td>Artifacts</td><td>4 x Gilded Dreams<br>1 x Viridescent Venerer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
