@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>56</td></tr>
-    <tr><td>Total rewards claimed</td><td>16</td></tr>
+    <tr><td>Total rewards claimed</td><td>17</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            5 x Fine Enhancement Ore
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>15.11.2022 16:42:55 UTC</td></tr>
+    <tr><td>Last checked</td><td>16.11.2022 16:40:18 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>570</td></tr>
-    <tr><td>Active days</td><td>237</td></tr>
+    <tr><td>Achievements</td><td>573</td></tr>
+    <tr><td>Active days</td><td>238</td></tr>
     <tr><td>Characters</td><td>35</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>22</td></tr>
-    <tr><td>Total wins</td><td>12</td></tr>
+    <tr><td>Total battles</td><td>48</td></tr>
+    <tr><td>Total wins</td><td>15</td></tr>
     <tr><td>Max floor</td><td>12-3</td></tr>
     <tr><td>Total stars</td><td>36</td></tr>
-    <tr><td>Strongest hit</td><td>Yelan -> 72610 DMG</td></tr>
-    <tr><td>Most kills</td><td>Ayaka -> 103</td></tr>
-    <tr><td>Most damage taken</td><td>Nahida -> 92213 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Nahida -> 38</td></tr>
-    <tr><td>Most bursts used</td><td>Yelan -> 77</td></tr>
+    <tr><td>Strongest hit</td><td>Yelan -> 86165 DMG</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 89</td></tr>
+    <tr><td>Most damage taken</td><td>Yelan -> 124249 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Yelan -> 42</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 158</td></tr>
 </table>
 
 ## Exploration
@@ -694,7 +694,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>3 x Emblem of Severed Fate<br>1 x Pale Flame<br>1 x Heart of Depth</td></tr>
+    <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
