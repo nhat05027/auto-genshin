@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>24</td></tr>
+    <tr><td>Total rewards claimed</td><td>25</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png" width="120px">
             <br>
-            5000 x Mora
+            3 x Hero's Wit
         </td>
     </tr>
-    <tr><td>Last checked</td><td>23.12.2022 16:33:03 UTC</td></tr>
+    <tr><td>Last checked</td><td>24.12.2022 16:32:01 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>600</td></tr>
-    <tr><td>Active days</td><td>275</td></tr>
+    <tr><td>Active days</td><td>276</td></tr>
     <tr><td>Characters</td><td>37</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
