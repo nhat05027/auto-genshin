@@ -3,30 +3,30 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>28</td></tr>
+    <tr><td>Total rewards claimed</td><td>29</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            3 x Hero's Wit
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>27.12.2022 16:32:59 UTC</td></tr>
+    <tr><td>Last checked</td><td>28.12.2022 16:32:51 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>602</td></tr>
-    <tr><td>Active days</td><td>279</td></tr>
+    <tr><td>Active days</td><td>280</td></tr>
     <tr><td>Characters</td><td>39</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1241</td></tr>
-    <tr><td>Exquisite chests</td><td>927</td></tr>
-    <tr><td>Precious chests</td><td>314</td></tr>
+    <tr><td>Common chests</td><td>1243</td></tr>
+    <tr><td>Exquisite chests</td><td>933</td></tr>
+    <tr><td>Precious chests</td><td>315</td></tr>
     <tr><td>Luxurious chests</td><td>130</td></tr>
     <tr><td>Unlocked waypoints</td><td>235</td></tr>
     <tr><td>Unlocked domains</td><td>40</td></tr>
@@ -98,7 +98,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>76.9%</td>
+                    <td>78.7%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -146,7 +146,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>72.0%</td>
+                    <td>72.4%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -430,7 +430,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Youtou.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Bloodstained.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -451,9 +451,9 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Kagotsurube Isshin</td></tr>
+    <tr><td>Name</td><td>The Black Sword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -478,7 +478,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>2 x Shimenawa's Reminiscence<br>2 x Gladiator's Finale<br>1 x Wanderer's Troupe</td></tr>
+    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Shimenawa's Reminiscence<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -682,7 +682,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -694,7 +694,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>2 x Emblem of Severed Fate<br>1 x Heart of Depth</td></tr>
+    <tr><td>Artifacts</td><td>2 x Heart of Depth<br>2 x Gladiator's Finale<br>1 x Pale Flame</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -703,10 +703,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Favonius Sword</td></tr>
+    <tr><td>Name</td><td>Sacrificial Sword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -730,7 +730,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Heart of Depth</td></tr>
+    <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Noblesse Oblige</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -1089,7 +1089,7 @@
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>5</td></tr>
+    <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -1397,6 +1397,42 @@
 </table>
 
 
+### Kujou Sara
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Fading Twilight</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
 ### Shikanoin Heizou
 
 <table>
@@ -1463,42 +1499,6 @@
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>2</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-
-### Kujou Sara
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png" width="256"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Hunter's Bow</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
