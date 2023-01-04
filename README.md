@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>4</td></tr>
+    <tr><td>Total rewards claimed</td><td>5</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png" width="120px">
             <br>
-            20 x Primogem
+            3 x Sweet Madame
         </td>
     </tr>
-    <tr><td>Last checked</td><td>03.01.2023 16:34:08 UTC</td></tr>
+    <tr><td>Last checked</td><td>04.01.2023 16:42:12 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>603</td></tr>
-    <tr><td>Active days</td><td>286</td></tr>
+    <tr><td>Achievements</td><td>604</td></tr>
+    <tr><td>Active days</td><td>287</td></tr>
     <tr><td>Characters</td><td>40</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>28</td></tr>
-    <tr><td>Total wins</td><td>12</td></tr>
+    <tr><td>Total battles</td><td>32</td></tr>
+    <tr><td>Total wins</td><td>15</td></tr>
     <tr><td>Max floor</td><td>12-3</td></tr>
-    <tr><td>Total stars</td><td>35</td></tr>
-    <tr><td>Strongest hit</td><td>Raiden Shogun -> 203316 DMG</td></tr>
-    <tr><td>Most kills</td><td>Raiden Shogun -> 45</td></tr>
-    <tr><td>Most damage taken</td><td>Raiden Shogun -> 100899 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Xingqiu -> 25</td></tr>
-    <tr><td>Most bursts used</td><td>Yelan -> 95</td></tr>
+    <tr><td>Total stars</td><td>36</td></tr>
+    <tr><td>Strongest hit</td><td>Raiden Shogun -> 215064 DMG</td></tr>
+    <tr><td>Most kills</td><td>Raiden Shogun -> 48</td></tr>
+    <tr><td>Most damage taken</td><td>Raiden Shogun -> 116344 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Bennett -> 39</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 146</td></tr>
 </table>
 
 ## Exploration
@@ -1366,7 +1366,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -1378,7 +1378,7 @@
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Artifacts</td><td>5 x Crimson Witch of Flames</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -1387,9 +1387,9 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Beginner's Protector</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Name</td><td>Deathmatch</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>83</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
