@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>6</td></tr>
+    <tr><td>Total rewards claimed</td><td>7</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            2 x Adventurer's Experience
+            8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>05.01.2023 16:37:02 UTC</td></tr>
+    <tr><td>Last checked</td><td>06.01.2023 16:34:46 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>604</td></tr>
-    <tr><td>Active days</td><td>288</td></tr>
+    <tr><td>Active days</td><td>289</td></tr>
     <tr><td>Characters</td><td>40</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -958,7 +958,7 @@
     <tr><td>Name</td><td>The Bell</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Refinement</td><td>4</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -1138,7 +1138,7 @@
     <tr><td>Name</td><td>Favonius Greatsword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
+    <tr><td>Refinement</td><td>4</td></tr>
 </table>
 
 </td></tr>
