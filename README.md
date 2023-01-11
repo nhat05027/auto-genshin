@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>11</td></tr>
+    <tr><td>Total rewards claimed</td><td>12</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png" width="120px">
             <br>
-            20 x Primogem
+            3 x Fried Radish Balls
         </td>
     </tr>
-    <tr><td>Last checked</td><td>10.01.2023 16:37:54 UTC</td></tr>
+    <tr><td>Last checked</td><td>11.01.2023 16:46:03 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>604</td></tr>
-    <tr><td>Active days</td><td>293</td></tr>
+    <tr><td>Achievements</td><td>605</td></tr>
+    <tr><td>Active days</td><td>294</td></tr>
     <tr><td>Characters</td><td>40</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
