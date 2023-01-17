@@ -3,24 +3,24 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>17</td></tr>
+    <tr><td>Total rewards claimed</td><td>18</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
             <br>
-            5000 x Mora
+            20 x Primogem
         </td>
     </tr>
-    <tr><td>Last checked</td><td>16.01.2023 16:33:32 UTC</td></tr>
+    <tr><td>Last checked</td><td>17.01.2023 16:33:43 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>605</td></tr>
-    <tr><td>Active days</td><td>299</td></tr>
+    <tr><td>Active days</td><td>300</td></tr>
     <tr><td>Characters</td><td>40</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>no most kills this seasson -> no most kills this seasson</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>no most bursts used this seasson -> no most bursts used this seasson</td></tr>
+    <tr><td>Total battles</td><td>6</td></tr>
+    <tr><td>Total wins</td><td>6</td></tr>
+    <tr><td>Max floor</td><td>10-3</td></tr>
+    <tr><td>Total stars</td><td>18</td></tr>
+    <tr><td>Strongest hit</td><td>Raiden Shogun -> 199843 DMG</td></tr>
+    <tr><td>Most kills</td><td>Raiden Shogun -> 30</td></tr>
+    <tr><td>Most damage taken</td><td>Ayaka -> 12324 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Nahida -> 8</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 24</td></tr>
 </table>
 
 ## Exploration
