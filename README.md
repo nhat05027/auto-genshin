@@ -3,28 +3,28 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>24</td></tr>
+    <tr><td>Total rewards claimed</td><td>25</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png" width="120px">
             <br>
-            5000 x Mora
+            3 x Hero's Wit
         </td>
     </tr>
-    <tr><td>Last checked</td><td>23.01.2023 16:34:30 UTC</td></tr>
+    <tr><td>Last checked</td><td>24.01.2023 16:33:57 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>606</td></tr>
-    <tr><td>Active days</td><td>306</td></tr>
+    <tr><td>Active days</td><td>307</td></tr>
     <tr><td>Characters</td><td>40</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1247</td></tr>
+    <tr><td>Common chests</td><td>1248</td></tr>
     <tr><td>Exquisite chests</td><td>941</td></tr>
     <tr><td>Precious chests</td><td>315</td></tr>
     <tr><td>Luxurious chests</td><td>130</td></tr>
@@ -729,7 +729,7 @@
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>9</td></tr>
-    <tr><td>Constellation</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>2 x Heart of Depth<br>2 x Gladiator's Finale<br>1 x Pale Flame</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
