@@ -3,7 +3,7 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>29</td></tr>
+    <tr><td>Total rewards claimed</td><td>30</td></tr>
     <tr><td>Last reward</td>
         <td>
             <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
@@ -11,14 +11,14 @@
             5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>28.01.2023 16:31:30 UTC</td></tr>
+    <tr><td>Last checked</td><td>29.01.2023 16:31:26 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>607</td></tr>
-    <tr><td>Active days</td><td>311</td></tr>
+    <tr><td>Active days</td><td>312</td></tr>
     <tr><td>Characters</td><td>40</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -1378,7 +1378,7 @@
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td>5 x Crimson Witch of Flames</td></tr>
+    <tr><td>Artifacts</td><td>4 x Crimson Witch of Flames<br>1 x Deepwood Memories</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
