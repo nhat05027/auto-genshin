@@ -3,33 +3,33 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>31</td></tr>
+    <tr><td>Total rewards claimed</td><td>1</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            5000 x Mora
+            3 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>30.01.2023 16:33:58 UTC</td></tr>
+    <tr><td>Last checked</td><td>31.01.2023 16:34:06 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>608</td></tr>
-    <tr><td>Active days</td><td>313</td></tr>
+    <tr><td>Achievements</td><td>610</td></tr>
+    <tr><td>Active days</td><td>314</td></tr>
     <tr><td>Characters</td><td>40</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
     <tr><td>Common chests</td><td>1249</td></tr>
-    <tr><td>Exquisite chests</td><td>941</td></tr>
+    <tr><td>Exquisite chests</td><td>942</td></tr>
     <tr><td>Precious chests</td><td>315</td></tr>
     <tr><td>Luxurious chests</td><td>130</td></tr>
-    <tr><td>Unlocked waypoints</td><td>236</td></tr>
-    <tr><td>Unlocked domains</td><td>40</td></tr>
+    <tr><td>Unlocked waypoints</td><td>260</td></tr>
+    <tr><td>Unlocked domains</td><td>43</td></tr>
 </table>
 
 ## Spiral Abyss
@@ -547,7 +547,7 @@
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
@@ -583,7 +583,7 @@
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
