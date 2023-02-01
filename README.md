@@ -3,30 +3,30 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>1</td></tr>
+    <tr><td>Total rewards claimed</td><td>2</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
             <br>
-            3 x Adventurer's Experience
+            3 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>31.01.2023 16:34:06 UTC</td></tr>
+    <tr><td>Last checked</td><td>01.02.2023 16:33:33 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>610</td></tr>
-    <tr><td>Active days</td><td>314</td></tr>
+    <tr><td>Achievements</td><td>613</td></tr>
+    <tr><td>Active days</td><td>315</td></tr>
     <tr><td>Characters</td><td>40</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1249</td></tr>
-    <tr><td>Exquisite chests</td><td>942</td></tr>
-    <tr><td>Precious chests</td><td>315</td></tr>
+    <tr><td>Common chests</td><td>1250</td></tr>
+    <tr><td>Exquisite chests</td><td>943</td></tr>
+    <tr><td>Precious chests</td><td>316</td></tr>
     <tr><td>Luxurious chests</td><td>130</td></tr>
     <tr><td>Unlocked waypoints</td><td>260</td></tr>
     <tr><td>Unlocked domains</td><td>43</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>25</td></tr>
-    <tr><td>Total wins</td><td>16</td></tr>
+    <tr><td>Total battles</td><td>24</td></tr>
+    <tr><td>Total wins</td><td>13</td></tr>
     <tr><td>Max floor</td><td>12-3</td></tr>
     <tr><td>Total stars</td><td>36</td></tr>
-    <tr><td>Strongest hit</td><td>Raiden Shogun -> 199843 DMG</td></tr>
-    <tr><td>Most kills</td><td>Ayaka -> 57</td></tr>
-    <tr><td>Most damage taken</td><td>Raiden Shogun -> 78527 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Yelan -> 38</td></tr>
-    <tr><td>Most bursts used</td><td>Yelan -> 174</td></tr>
+    <tr><td>Strongest hit</td><td>Raiden Shogun -> 182655 DMG</td></tr>
+    <tr><td>Most kills</td><td>Nahida -> 56</td></tr>
+    <tr><td>Most damage taken</td><td>Ayaka -> 87947 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Yelan -> 28</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 124</td></tr>
 </table>
 
 ## Exploration
@@ -547,7 +547,7 @@
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
