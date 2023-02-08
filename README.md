@@ -3,32 +3,32 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>8</td></tr>
+    <tr><td>Total rewards claimed</td><td>9</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
             <br>
-            3 x Adventurer's Experience
+            3 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>07.02.2023 16:34:40 UTC</td></tr>
+    <tr><td>Last checked</td><td>08.02.2023 16:35:06 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>613</td></tr>
-    <tr><td>Active days</td><td>321</td></tr>
+    <tr><td>Achievements</td><td>621</td></tr>
+    <tr><td>Active days</td><td>322</td></tr>
     <tr><td>Characters</td><td>41</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1254</td></tr>
-    <tr><td>Exquisite chests</td><td>945</td></tr>
-    <tr><td>Precious chests</td><td>317</td></tr>
+    <tr><td>Common chests</td><td>1275</td></tr>
+    <tr><td>Exquisite chests</td><td>955</td></tr>
+    <tr><td>Precious chests</td><td>320</td></tr>
     <tr><td>Luxurious chests</td><td>130</td></tr>
-    <tr><td>Unlocked waypoints</td><td>260</td></tr>
+    <tr><td>Unlocked waypoints</td><td>265</td></tr>
     <tr><td>Unlocked domains</td><td>43</td></tr>
 </table>
 
@@ -74,7 +74,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>34.0%</td>
+                    <td>37.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -146,7 +146,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>73.1%</td>
+                    <td>73.2%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -406,7 +406,7 @@
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Crimson Witch of Flames<br>1 x Emblem of Severed Fate</td></tr>
+    <tr><td>Artifacts</td><td>4 x Crimson Witch of Flames<br>1 x Wanderer's Troupe</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -764,7 +764,7 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>5</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Pale Flame</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -1414,7 +1414,7 @@
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td>1 x Crimson Witch of Flames</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
