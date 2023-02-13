@@ -3,29 +3,29 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>13</td></tr>
+    <tr><td>Total rewards claimed</td><td>14</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            2 x Adventurer's Experience
+            8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>12.02.2023 16:32:15 UTC</td></tr>
+    <tr><td>Last checked</td><td>13.02.2023 16:35:25 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>627</td></tr>
-    <tr><td>Active days</td><td>326</td></tr>
+    <tr><td>Active days</td><td>327</td></tr>
     <tr><td>Characters</td><td>41</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
     <tr><td>Common chests</td><td>1281</td></tr>
-    <tr><td>Exquisite chests</td><td>958</td></tr>
+    <tr><td>Exquisite chests</td><td>959</td></tr>
     <tr><td>Precious chests</td><td>321</td></tr>
     <tr><td>Luxurious chests</td><td>132</td></tr>
     <tr><td>Unlocked waypoints</td><td>265</td></tr>
@@ -134,7 +134,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>85.9%</td>
+                    <td>86.1%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -404,7 +404,7 @@
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Crimson Witch of Flames<br>1 x Wanderer's Troupe</td></tr>
     <tr><td>Outfits</td><td></td></tr>
