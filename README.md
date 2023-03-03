@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>3</td></tr>
+    <tr><td>Total rewards claimed</td><td>4</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
             <br>
-            5000 x Mora
+            20 x Primogem
         </td>
     </tr>
-    <tr><td>Last checked</td><td>02.03.2023 16:36:06 UTC</td></tr>
+    <tr><td>Last checked</td><td>03.03.2023 16:34:12 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>629</td></tr>
-    <tr><td>Active days</td><td>344</td></tr>
+    <tr><td>Active days</td><td>345</td></tr>
     <tr><td>Characters</td><td>41</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -404,9 +404,9 @@
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Crimson Witch of Flames<br>1 x Wanderer's Troupe</td></tr>
+    <tr><td>Artifacts</td><td>4 x Crimson Witch of Flames<br>1 x Pale Flame</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -694,7 +694,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
-    <tr><td>Artifacts</td><td>2 x Heart of Depth<br>2 x Gladiator's Finale<br>1 x Pale Flame</td></tr>
+    <tr><td>Artifacts</td><td>2 x Heart of Depth<br>2 x Gladiator's Finale<br>1 x Crimson Witch of Flames</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
