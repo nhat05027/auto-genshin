@@ -3,32 +3,32 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>57</td></tr>
-    <tr><td>Total rewards claimed</td><td>5</td></tr>
+    <tr><td>Total rewards claimed</td><td>6</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            3 x Sweet Madame
+            2 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>04.03.2023 16:32:28 UTC</td></tr>
+    <tr><td>Last checked</td><td>05.03.2023 16:32:31 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>629</td></tr>
-    <tr><td>Active days</td><td>346</td></tr>
+    <tr><td>Achievements</td><td>630</td></tr>
+    <tr><td>Active days</td><td>347</td></tr>
     <tr><td>Characters</td><td>41</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
-    <tr><td>Common chests</td><td>1294</td></tr>
-    <tr><td>Exquisite chests</td><td>967</td></tr>
-    <tr><td>Precious chests</td><td>322</td></tr>
+    <tr><td>Common chests</td><td>1297</td></tr>
+    <tr><td>Exquisite chests</td><td>969</td></tr>
+    <tr><td>Precious chests</td><td>324</td></tr>
     <tr><td>Luxurious chests</td><td>132</td></tr>
-    <tr><td>Unlocked waypoints</td><td>266</td></tr>
+    <tr><td>Unlocked waypoints</td><td>269</td></tr>
     <tr><td>Unlocked domains</td><td>43</td></tr>
 </table>
 
