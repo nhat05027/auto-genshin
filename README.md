@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>58</td></tr>
-    <tr><td>Total rewards claimed</td><td>17</td></tr>
+    <tr><td>Total rewards claimed</td><td>18</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
             <br>
-            5000 x Mora
+            20 x Primogem
         </td>
     </tr>
-    <tr><td>Last checked</td><td>16.03.2023 16:37:10 UTC</td></tr>
+    <tr><td>Last checked</td><td>17.03.2023 16:33:26 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>632</td></tr>
-    <tr><td>Active days</td><td>358</td></tr>
+    <tr><td>Active days</td><td>359</td></tr>
     <tr><td>Characters</td><td>41</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -800,7 +800,7 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>2 x Tenacity of the Millelith<br>2 x Emblem of Severed Fate<br>1 x Crimson Witch of Flames</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -813,7 +813,7 @@
 <table>
     <tr><td>Name</td><td>Prototype Amber</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
