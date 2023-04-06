@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>58</td></tr>
-    <tr><td>Total rewards claimed</td><td>6</td></tr>
+    <tr><td>Total rewards claimed</td><td>7</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            2 x Adventurer's Experience
+            8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>05.04.2023 16:34:41 UTC</td></tr>
+    <tr><td>Last checked</td><td>06.04.2023 16:29:26 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>634</td></tr>
-    <tr><td>Active days</td><td>378</td></tr>
+    <tr><td>Active days</td><td>379</td></tr>
     <tr><td>Characters</td><td>41</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -317,6 +317,42 @@
 </table>
 
 
+### Hu Tao
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Crimson Witch of Flames<br>1 x Pale Flame</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Deathmatch</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
 ### Kaedehara Kazuha
 
 <table>
@@ -383,42 +419,6 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>4</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-
-### Hu Tao
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png" width="256"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Crimson Witch of Flames<br>1 x Pale Flame</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Deathmatch</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
