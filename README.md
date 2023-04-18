@@ -3,24 +3,24 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>58</td></tr>
-    <tr><td>Total rewards claimed</td><td>18</td></tr>
+    <tr><td>Total rewards claimed</td><td>19</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png" width="120px">
             <br>
-            20 x Primogem
+            3 x Fisherman's Toast
         </td>
     </tr>
-    <tr><td>Last checked</td><td>17.04.2023 16:30:21 UTC</td></tr>
+    <tr><td>Last checked</td><td>18.04.2023 16:25:59 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>636</td></tr>
-    <tr><td>Active days</td><td>390</td></tr>
+    <tr><td>Active days</td><td>391</td></tr>
     <tr><td>Characters</td><td>43</td></tr>
-    <tr><td>Spiral abyss</td><td>11-3</td></tr>
+    <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>11</td></tr>
-    <tr><td>Total wins</td><td>9</td></tr>
-    <tr><td>Max floor</td><td>11-3</td></tr>
-    <tr><td>Total stars</td><td>27</td></tr>
-    <tr><td>Strongest hit</td><td>Raiden Shogun -> 196722 DMG</td></tr>
-    <tr><td>Most kills</td><td>Nahida -> 32</td></tr>
-    <tr><td>Most damage taken</td><td>Nilou -> 112901 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Bennett -> 24</td></tr>
-    <tr><td>Most bursts used</td><td>Nilou -> 46</td></tr>
+    <tr><td>Total battles</td><td>80</td></tr>
+    <tr><td>Total wins</td><td>16</td></tr>
+    <tr><td>Max floor</td><td>12-3</td></tr>
+    <tr><td>Total stars</td><td>36</td></tr>
+    <tr><td>Strongest hit</td><td>Raiden Shogun -> 214483 DMG</td></tr>
+    <tr><td>Most kills</td><td>Raiden Shogun -> 42</td></tr>
+    <tr><td>Most damage taken</td><td>Nilou -> 189976 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Bennett -> 49</td></tr>
+    <tr><td>Most bursts used</td><td>Yelan -> 114</td></tr>
 </table>
 
 ## Exploration
@@ -394,7 +394,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -415,10 +415,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>The Widsith</td></tr>
+    <tr><td>Name</td><td>Sacrificial Fragments</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -694,7 +694,7 @@
     <tr><td>Level</td><td>81</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
-    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Viridescent Venerer</td></tr>
+    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Flower of Paradise Lost</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -790,7 +790,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arakalari.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -811,10 +811,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Sacrificial Bow</td></tr>
+    <tr><td>Name</td><td>King's Squire</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>
@@ -826,7 +826,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -838,7 +838,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gilded Dreams<br>2 x Flower of Paradise Lost<br>1 x Desert Pavilion Chronicle</td></tr>
+    <tr><td>Artifacts</td><td>1 x Vourukasha's Glow<br>1 x Tenacity of the Millelith<br>1 x Noblesse Oblige<br>1 x Flower of Paradise Lost<br>1 x Desert Pavilion Chronicle</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -847,10 +847,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Sacrificial Fragments</td></tr>
+    <tr><td>Name</td><td>The Widsith</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -862,7 +862,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arakalari.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -874,7 +874,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>5</td></tr>
-    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Pale Flame</td></tr>
+    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Viridescent Venerer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -883,10 +883,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>King's Squire</td></tr>
+    <tr><td>Name</td><td>Sacrificial Bow</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
