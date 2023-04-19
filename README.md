@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>58</td></tr>
-    <tr><td>Total rewards claimed</td><td>19</td></tr>
+    <tr><td>Total rewards claimed</td><td>20</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            3 x Fisherman's Toast
+            3 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>18.04.2023 16:25:59 UTC</td></tr>
+    <tr><td>Last checked</td><td>19.04.2023 16:30:17 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>636</td></tr>
-    <tr><td>Active days</td><td>391</td></tr>
+    <tr><td>Active days</td><td>392</td></tr>
     <tr><td>Characters</td><td>43</td></tr>
     <tr><td>Spiral abyss</td><td>12-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -394,7 +394,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -415,10 +415,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Sacrificial Fragments</td></tr>
+    <tr><td>Name</td><td>The Widsith</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -440,7 +440,7 @@
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>3 x Tenacity of the Millelith<br>2 x Vourukasha's Glow</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -694,7 +694,7 @@
     <tr><td>Level</td><td>81</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
-    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Flower of Paradise Lost</td></tr>
+    <tr><td>Artifacts</td><td>5 x Noblesse Oblige</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -826,7 +826,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -847,10 +847,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>The Widsith</td></tr>
+    <tr><td>Name</td><td>Sacrificial Fragments</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
