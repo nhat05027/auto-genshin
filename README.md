@@ -3,24 +3,24 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>58</td></tr>
-    <tr><td>Total rewards claimed</td><td>7</td></tr>
+    <tr><td>Total rewards claimed</td><td>8</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            8000 x Mora
+            3 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>06.05.2023 16:28:40 UTC</td></tr>
+    <tr><td>Last checked</td><td>07.05.2023 16:27:16 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>637</td></tr>
-    <tr><td>Active days</td><td>409</td></tr>
+    <tr><td>Active days</td><td>410</td></tr>
     <tr><td>Characters</td><td>45</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
     <tr><td>Geoculi</td><td>131</td></tr>
     <tr><td>Electroculi</td><td>181</td></tr>
@@ -35,15 +35,15 @@
 ## Spiral Abyss
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>no most kills this seasson -> no most kills this seasson</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>no most bursts used this seasson -> no most bursts used this seasson</td></tr>
+    <tr><td>Total battles</td><td>9</td></tr>
+    <tr><td>Total wins</td><td>9</td></tr>
+    <tr><td>Max floor</td><td>11-3</td></tr>
+    <tr><td>Total stars</td><td>27</td></tr>
+    <tr><td>Strongest hit</td><td>Raiden Shogun -> 134054 DMG</td></tr>
+    <tr><td>Most kills</td><td>Ayaka -> 75</td></tr>
+    <tr><td>Most damage taken</td><td>Raiden Shogun -> 42825 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Shinobu -> 9</td></tr>
+    <tr><td>Most bursts used</td><td>Ayaka -> 29</td></tr>
 </table>
 
 ## Exploration
@@ -430,7 +430,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -451,10 +451,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Sacrificial Sword</td></tr>
+    <tr><td>Name</td><td>Favonius Sword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
+    <tr><td>Refinement</td><td>4</td></tr>
 </table>
 
 </td></tr>
@@ -718,7 +718,7 @@
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png" width="256"></p></td>
 </tr>
 
 <tr>
@@ -739,10 +739,10 @@
 <td>
 
 <table>
-    <tr><td>Name</td><td>Favonius Sword</td></tr>
+    <tr><td>Name</td><td>Sacrificial Sword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>4</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>
@@ -838,7 +838,7 @@
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
-    <tr><td>Artifacts</td><td>1 x Vourukasha's Glow<br>1 x Tenacity of the Millelith<br>1 x Noblesse Oblige<br>1 x Flower of Paradise Lost<br>1 x Desert Pavilion Chronicle</td></tr>
+    <tr><td>Artifacts</td><td>1 x Tenacity of the Millelith<br>1 x Noblesse Oblige<br>1 x Flower of Paradise Lost<br>1 x Emblem of Severed Fate<br>1 x Desert Pavilion Chronicle</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
