@@ -3,22 +3,22 @@
 <table>
     <tr><td>Nickname</td><td>Kazuooo</td></tr>
     <tr><td>Adventure rank</td><td>58</td></tr>
-    <tr><td>Total rewards claimed</td><td>21</td></tr>
+    <tr><td>Total rewards claimed</td><td>22</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            8000 x Mora
+            5 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>20.05.2023 16:26:49 UTC</td></tr>
+    <tr><td>Last checked</td><td>21.05.2023 16:27:21 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>645</td></tr>
-    <tr><td>Active days</td><td>423</td></tr>
+    <tr><td>Active days</td><td>424</td></tr>
     <tr><td>Characters</td><td>45</td></tr>
     <tr><td>Spiral abyss</td><td>11-3</td></tr>
     <tr><td>Anemoculi</td><td>66</td></tr>
@@ -42,7 +42,7 @@
     <tr><td>Strongest hit</td><td>Raiden Shogun -> 163411 DMG</td></tr>
     <tr><td>Most kills</td><td>Ayaka -> 48</td></tr>
     <tr><td>Most damage taken</td><td>Ayaka -> 30173 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Shinobu -> 10</td></tr>
+    <tr><td>Most skills used</td><td>Ayaka -> 10</td></tr>
     <tr><td>Most bursts used</td><td>Yelan -> 31</td></tr>
 </table>
 
@@ -980,7 +980,7 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>4 x Gilded Dreams<br>1 x Viridescent Venerer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
